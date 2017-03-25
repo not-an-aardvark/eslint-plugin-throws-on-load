@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-throws-on-load",
+  "version": "1.0.0",
+  "description": "A module that throws an error when it's loaded",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/not-an-aardvark/eslint-plugin-throws-on-load.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Teddy Katz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/not-an-aardvark/eslint-plugin-throws-on-load/issues"
+  },
+  "homepage": "https://github.com/not-an-aardvark/eslint-plugin-throws-on-load#readme"
+}
